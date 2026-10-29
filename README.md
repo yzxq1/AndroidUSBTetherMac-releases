@@ -17,7 +17,7 @@ Android USB tethering (RNDIS) for macOS, without a kernel extension.
 
 ## 安装（DMG）
 
-1. 到 [Releases](https://github.com/yzxq1/AndroidUSBTetherMac.app/releases/latest) 下载 `AndroidUSBTetherMac-v*-macos-arm64.dmg`。
+1. 到 [Releases](https://github.com/yzxq1/AndroidUSBTetherMac-releases/releases/latest) 下载 `AndroidUSBTetherMac-v*-macos-arm64.dmg`。
 2. 双击打开 DMG，把 **AndroidUSBTetherMac** 拖到 **Applications（应用程序）**。
 3. App 没有 Apple 开发者签名，首次打开会被 macOS 拦截。打开「终端」，粘贴下面一行回车：
 
