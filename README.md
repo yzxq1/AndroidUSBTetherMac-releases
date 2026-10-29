@@ -6,9 +6,13 @@ Android USB tethering (RNDIS) for macOS, without a kernel extension.
 
 本仓库只发布安装包（Releases），不含源码。
 
-| 已连接 | 未连接 |
-|---|---|
-| ![已连接](screenshots/screenshot-connected.png) | ![未连接](screenshots/screenshot-disconnected.png) |
+**已连接**
+
+![已连接](screenshots/screenshot-connected.png)
+
+**未连接**
+
+![未连接](screenshots/screenshot-disconnected.png)
 
 ## 系统要求
 
